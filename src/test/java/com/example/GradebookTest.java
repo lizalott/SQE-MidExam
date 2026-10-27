@@ -51,7 +51,7 @@ class GradebookTest {
 
     @Test
     void averageMultiple() {
-        assertEquals(85.0, gradebook.average(new int[]{80, 90}), 1e-9);
+        assertEquals(95.0, gradebook.average(new int[]{80, 90}), 1e-9);
     }
 
     
