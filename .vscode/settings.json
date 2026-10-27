@@ -1,0 +1,12 @@
+{
+  "java.project.sourcePaths": [
+    "src/tests",
+    "src/main"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar", 
+    "d:\\study\\SE5thSemester\\SQEL\\junit practice\\lib\\junit-platform-console-standalone-1.x.x.jar"
+  ],
+  "java.configuration.updateBuildConfiguration": "interactive"
+  
+}
